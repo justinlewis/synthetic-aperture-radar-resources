@@ -23,6 +23,9 @@ Source | type | URL
 ------ | ---- | ---
 [Pangeo](https://discourse.pangeo.io/) | video | [The new era of SAR time series: Tackling big EO data analysis and visualization with Pangeo tools](https://discourse.pangeo.io/t/may-12-2021-the-new-era-of-sar-time-series-tackling-big-eo-data-analysis-and-visualization-with-pangeo-tools/1475)
 
+### Feed
+* [Training Tuesday on Twitter](https://twitter.com/search?q=%23TrainingTuesday%20%40sistersofSAR&src=typed_query)
+
 
 ## InSAR (Interferometric Synthetic Aperture Radar) 
 Source | type | URL
