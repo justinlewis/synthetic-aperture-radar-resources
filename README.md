@@ -1,4 +1,4 @@
-# Synthetic Aperture Radar Resources
+# Synthetic Aperture Radar (SAR) Training Material
 
 ## SAR (Synthetic Aperture Radar)
 
@@ -6,6 +6,7 @@
 Source | type | URL
 ------ | ---- | ---
 [UNAVCO](https://www.unavco.org/) | video | [GAGE Short Course: InSAR Theory and Processing](https://www.youtube.com/watch?v=P2Boe7paohs)
+[NASA](https://earthdata.nasa.gov/) | print | [NASA: What Is SAR](https://earthdata.nasa.gov/learn/backgrounders/what-is-sar)
 
 
 ### Course
@@ -26,7 +27,6 @@ Source | type | URL
 ### Feed
 * [Training Tuesday on Twitter](https://twitter.com/search?q=%23TrainingTuesday%20%40sistersofSAR&src=typed_query)
 
-
 ## InSAR (Interferometric Synthetic Aperture Radar) 
 Source | type | URL
 ------ | ---- | ---
@@ -36,3 +36,6 @@ Source | type | URL
 * [Radar: Introduction to Radar Systems — Online Course](https://www.ll.mit.edu/outreach/radar-introduction-radar-systems-online-course)
 * [Radar: Graduate Level — Online Course](https://www.ll.mit.edu/outreach/radar-graduate-level-online-course)
 * [6th ESA Advanced Course on Radar Polarimetry 2021](https://eo4society.esa.int/event/6th-advanced-polarimetry-2021/)
+
+# SAR Data
+* [NASA Earth Data](https://search.earthdata.nasa.gov/search?q=SAR&fdc=Alaska%20Satellite%20Facility)
